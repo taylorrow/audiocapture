@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AudioCapture</string>
+    <string name="record">Записать</string>
+    <string name="play">Воспроизвести</string>
+    <string name="timer_finish">Выполнено!</string>
+    <string name="not_file">Файл не найден</string>
+</resources>
